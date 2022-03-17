@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{831D33BA-47C7-2D58-B0F2-919B3C90408A}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "QuakeRemake",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
